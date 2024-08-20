@@ -1,0 +1,19 @@
+div{
+    display: flex;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: rgb(228, 181, 255);
+}
+.cor{
+    background-color: azure;
+}
+h1{ 
+    text-align: center;
+}
+body{
+    background-color: rgb(225, 181, 255)
+    ;
+}
